@@ -13,7 +13,7 @@ The Video Captioning App allows users to add captions to videos dynamically. Use
 
 ## Live Link
 
-Check out the live version of the app [here]([https://your-live-link.com](https://video-captions-dun.vercel.app/)).
+Check out the live version of the app [here](https://video-captions-dun.vercel.app/).
 
 ## How to Run
 
